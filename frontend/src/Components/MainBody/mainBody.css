@@ -1,0 +1,11 @@
+#mainBodyContainer{
+    border: 1px solid green;
+    margin-top: 0.5rem;
+    padding: 2px;
+    box-sizing: border-box;
+    display: grid;
+    grid-auto-flow: row;
+    height: auto;
+    width: 100%;
+
+}

@@ -1,0 +1,45 @@
+#navBarContainer{
+    border: 1px solid rgb(21, 24, 213);
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    height: auto;
+    display: grid;
+    grid-auto-flow: column;
+    gap: 10px;
+    width: 100%;
+    grid-template-columns: 0fr 5fr 0fr;
+    
+
+
+}
+
+#imgContainer{
+    height: 30px;
+    width: 30px;
+}
+
+#optionsContainer{
+    
+    padding-left: 20rem;
+    gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+    display: flex;
+
+}
+
+.optionss{
+    cursor: pointer;
+    width: 20%;
+    text-align: center;
+
+}
+
+
+
+#dummyContainer{
+    border: 1px solid pink;
+
+}
+
+
+

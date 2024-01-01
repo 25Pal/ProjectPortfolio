@@ -1,0 +1,14 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: auto;
+    box-sizing: border-box;
+    color: black;
+}
+
+body{
+    font-family: 'Inter,san-serif';
+    text-decoration: none;
+}
